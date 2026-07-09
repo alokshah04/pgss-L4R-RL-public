@@ -1,5 +1,11 @@
 # Reinforcement Learning Lab — HalfCheetah
 
+  <a href="https://colab.research.google.com/github/alokshah04/pgss-L4R-RL-public/blob/main/student_rl.ipynb" 
+  target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
+
 PPO homework for PGSS. Students implement Proximal Policy Optimization from scratch
 and train a MuJoCo HalfCheetah to run using only environment rewards — no expert demonstrations.
 
